@@ -35,6 +35,6 @@ To use the project, follow these steps:
  - Feel free to contribute to this project and make it even better! 🌈
 
  # Project Examples
- -  ![Example 1](https://github.com/Tomer-Lavan/ray-tracing/images/example1.png)
- -  ![Example 2](https://github.com/Tomer-Lavan/ray-tracing/images/example2.png)
+ -  ![Example 1](https://github.com/Tomer-Lavan/ray-tracing/blob/main/images/example1.png)
+ -  ![Example 2](https://github.com/Tomer-Lavan/ray-tracing/blob/main/images/example2.png)
 
