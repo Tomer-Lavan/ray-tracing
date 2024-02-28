@@ -33,3 +33,8 @@ To use the project, follow these steps:
  - Implementing illuminated objects.
  - Enhancing GPT integration for more accurate scene descriptions.
  - Feel free to contribute to this project and make it even better! 🌈
+
+ # Project Examples
+ -  ![Example 1](https://github.com/Tomer-Lavan/ray-tracing/main/assets/example1.png)
+ -  ![Example 2](https://github.com/Tomer-Lavan/ray-tracing/main/assets/example2.png)
+
